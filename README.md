@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gr8kev" alt="gr8kev" /></a> </p>
 
+[![gr8kev's GitHub | Languages Over Time](https://stats.quine.sh/gr8kev/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=gr8kev)
+
 - 🔭 I’m currently working on **Marketplace**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gr8kev/gr8kev](https://github.com/gr8kev/gr8kev)
