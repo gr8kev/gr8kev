@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm OBI KELVIN EBUA</h1>
-<h3 align="center">A passionate frontend developer from Ngeria</h3>
+<h1 align="center">Hi 👋, I'm OBI KELVIN EBUkA</h1>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr8kev&label=Profile%20views&color=0e75b6&style=flat" alt="gr8kev" /> </p>
 
@@ -31,6 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gr8kev&show_icons=true&locale=en" alt="gr8kev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gr8kev&" alt="gr8kev" /></p>
+
 
 <!--
 **gr8kev/gr8kev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
