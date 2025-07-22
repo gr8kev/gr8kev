@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ebukakels@gmail.com**
 
-- 📄 Know about my experiences [gr8kev.rf.gd](gr8kev.rf.gd)
+- 📄 Know about my experiences [https://gr8kev.netlify.app/](https://gr8kev.netlify.app/)
 
 - ⚡ Fun fact **i am fun to be with**
 
