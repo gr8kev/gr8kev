@@ -7,7 +7,7 @@
 
 [![gr8kev's GitHub | Languages Over Time](https://stats.quine.sh/gr8kev/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=gr8kev)
 
-- 🔭 I’m currently working on **Marketplace**
+- 🔭 I’m currently working on **A finance mobile App for income management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gr8kev/gr8kev](https://github.com/gr8kev/gr8kev)
 
