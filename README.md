@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OBI KELVIN EBUkA</h1>
+<h1 align="center">Hi 👋, I'm OBI .E. EBUkA</h1>
 <h3 align="center">A mern stack developer with passion to make difference </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gr8kev&label=Profile%20views&color=0e75b6&style=flat" alt="gr8kev" /> </p>
