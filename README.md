@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gr8kev/gr8kev](https://github.com/gr8kev/gr8kev)
 
-- 💬 Ask me about **Reactjs, Html Css Javascript**
+- 💬 Ask me about **Reactjs,Nextjs,Python,Javascript**
 
 - 📫 How to reach me **ebukakels@gmail.com**
 
